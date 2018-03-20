@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: map
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: QIN XIN
+Implementation-Vendor-Id: com.ship
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/map/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
